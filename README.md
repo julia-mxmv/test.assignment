@@ -64,4 +64,5 @@ REPOSITORY | TAG | IMAGE ID| CREATED SIZE|
 :----------|-----|---------|-------------|
 exampleapp | latest | 83wse0edc28a | 2 seconds ago | 153MB
 python | 3.6 | 05sob8636w3f | 6 weeks ago | 153 MB
+
 Next we put the environment in the repository 
