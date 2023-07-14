@@ -18,7 +18,7 @@ Moving next
      └──application/ # ... here we will put Dockerfile for the app
 
 ---
-_It can be all put in the root, but they say that the structure is important and stuff_
+_It can be all put in the root, but the structure is important_
 
 ---
 
