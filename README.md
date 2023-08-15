@@ -1,4 +1,4 @@
-# test.assignment
+# howto 
 So, first of all, you need to install docker. After that, go to the next step
 
 We need to start the container with an app in Kubernetes cluster. As an example we'll take our _ExampleApp_, let it accept on the port 8800
